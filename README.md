@@ -36,7 +36,7 @@ This project was developed at the Rocketseat Next Level Week with the following 
   $ yarn add or npm install
 
   #Run Api 
-  - API -> https://github.com/willianPetri/NLW-backend
+  API -> https://github.com/willianPetri/NLW-backend
   
   #Run the project
   $yarn dev
